@@ -1,7 +1,7 @@
 # Portfolio
 포트폴리오 Link
 
-유니티 1인 FPS 게임 https://github.com/gooddaeking/Unity_BattleIsland
+유니티 3D FPS 게임 https://github.com/gooddaeking/Unity_BattleIsland
 
 유니티 2D슈팅게임 APK빌드 https://github.com/gooddaeking/Unity_Project1
 
