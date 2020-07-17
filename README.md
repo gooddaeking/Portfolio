@@ -11,10 +11,10 @@
 
 유니티 포톤 네트워크 https://github.com/gooddaeking/photon
 
-WINAPI 팀 포트폴리오     https://github.com/gooddaeking/Kyungil-TeamProject-Zelda
+WinAPI 팀 포트폴리오     https://github.com/gooddaeking/Kyungil-TeamProject-Zelda
 
 유니티 입문 튜토리얼 https://github.com/gooddaeking/Unity_Tutorial
 
-텐가이 소스 https://github.com/gooddaeking/Tengai
+WinAPI 텐가이 소스 https://github.com/gooddaeking/Tengai
 
-Unsung Warriors 소스 https://github.com/gooddaeking/unsungwarriors
+WinAPI Unsung Warriors 소스 https://github.com/gooddaeking/unsungwarriors
